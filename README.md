@@ -13,5 +13,10 @@ Tools: STM32CubeIDE, EB Tresos, UDE, Git, Keil Microvision, Digital Works
 Concepts: AUTOSAR MCAL, RTOS, Software Validation, Robustness Testing  
 
 **Links**  
-Linkedin - https://www.linkedin.com/in/vishal-kompalli-05b768192/  
+**Linkedin** - https://www.linkedin.com/in/vishal-kompalli-05b768192/  
+**Instagram** - https://www.instagram.com/vishkompalli/  
+
+**Contact**
+vishal.kompalli@gmail.com
+9849924925
 
