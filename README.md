@@ -17,6 +17,6 @@ Concepts: AUTOSAR MCAL, RTOS, Software Validation, Robustness Testing
 **Instagram** - https://www.instagram.com/vishkompalli/  
 
 **Contact**
-vishal.kompalli@gmail.com
-9849924925
+vishal.kompalli@gmail.com  
+9849924925  
 
