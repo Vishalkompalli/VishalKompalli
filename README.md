@@ -1,6 +1,6 @@
 **Business Intelligence Developer | Microsoft Powerbi | SQL**  
 
-**Actively seeking full-time opportunities as an BI Developer.**  
+**Actively seeking full-time opportunities as a BI Developer.**  
 Business Intelligence and Data Analytics professional with 1 year of technical internship experience in a data-intensive validation environment, complemented by 8+ months of focused, hands-on work in Power BI and SQL.
 
 Previously worked as an Embedded Systems Validation Intern at Infineon Technologies, where I handled robustness testing, data validation, system log analysis, automation scripting, and performance tracking. This role built a strong foundation in analytical thinking, data quality, and root-cause analysis.
