@@ -1,4 +1,4 @@
-**Business Intelligence Developer | Microsoft Powerbi | SQL** | **Turning Raw data into actionable insights**  
+**Business Intelligence Developer | Microsoft Powerbi | SQL** | **PYTHON PANDAS** | **Turning Raw data into actionable insights**  
 
 **Actively seeking full-time opportunities as a BI Developer.**  
 Business Intelligence and Data Analytics professional with 1 year of technical internship experience in a data-intensive validation environment, complemented by 8+ months of focused, hands-on work in Power BI and SQL.
@@ -14,6 +14,7 @@ I graduated Master of Engineering (ME) in Embedded Systems at the Manipal School
 **Tech Stack**  
 Microsoft Powerbi
 SQL
+Pandas
 ETL
 
 **Links**  
